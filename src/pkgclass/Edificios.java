@@ -3,13 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package pkgclass;
 
 /**
  *
  * @author Erick
  */
 public class Edificios {
-     private String Campus;//I...V
+    private String Campus;//I...V
      private String Area;//Administrativo, Salones, Baños, Kiosko
      private boolean energiaelectrica;
      private double mts2;
